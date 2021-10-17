@@ -1,1 +1,19 @@
-a=int(input()
+a=int(input("Enter the coefficieet for x^2: ))
+b=int(input("Enter the coefficieet for x: ))
+a=int(input("Enter the constant: ))
+
+print("The quadratic equation is: {}x^2 + {}x + {}",format.(a,b,c))
+
+d=b**2 - 4*a*c
+
+if d>0:
+       print("Roots  are real & distinct")
+       x1 = (-b+(d**(1/2)))/(2*a)
+       x2 = (-b-(d**(1/2)))/(2*a)
+       print("Root 1 =",x1), "Root 2 =",x2)
+elif d==0:
+       print("Roots are real and equal")
+       x1=x2=(-b/(2*a))
+       print("Root 1 = {}, Root 2 = {}".format(x1,x2))
+else:
+       print("Roots are imaginary")
