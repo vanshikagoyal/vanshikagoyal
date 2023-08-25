@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @vanshikagoyal
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ....
+- 👀 I’m a data enthusiast.
+- I analyze datasets to derive insights, generate visualizations, and create dashboards.
+- I am proficient in Tableau, Power BI, Excel, MYSQL, and SQL.
+- My coding tech-stack comprises: Python (Numpy, Pandas, Matplotlib, Scikit); C; HTML, CSS
+- I have also worked on Figma, WordPress, Wix, and Shopify.
 - 📫 How to reach me: 15vanshikagoyal@gmail.com
 
 <!---
